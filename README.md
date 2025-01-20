@@ -38,5 +38,5 @@ _Although these are generic, most have broad applicability in FinTech._
 | [goanalyzer](https://github.com/robaho/cpp_leveldb) | improved Go performance diagnostics for highly concurrent systems |
 | [SmartShareToCalendar](https://github.com/robaho/SmartShareToCalendar) | Android app to create calendar events from other systems |
 
-_For those that wonder, robaho is read as `rob ahoy` which is a holder over from my college days when a close friend and I would great each other across the quad. He was `marcaho`._ 
+_For those that wonder, robaho is read as `rob ahoy` which is a legacy from my college days when a close friend and I would great each other yelling across the quad. He was `marcaho`._ 
 
