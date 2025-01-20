@@ -2,7 +2,7 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/robaho)
 
-🔭 All work below is 100% original and not affilated with any employer past or present.
+All work below is 100% original and not affilated with any employer past or present.
 
 _<sup>***</sup>For those that wonder, robaho is read as `rob ahoy` which is a legacy from my college days when a close friend and I would great each other yelling across the quad. He was `marcaho`. The avitar is Bogey - the greatest dog that ever lived._ 
 
