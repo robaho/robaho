@@ -8,7 +8,7 @@ _The projects are created with a "performance first" design. They can easily for
 
 | | |
 | ----- | ----- |
-| [go-trader](../go-trader) | a financial exchange in Go (the foundation of several commercial crypto exchanges) |
+| [go-trader](../../go-trader) | a financial exchange in Go (the foundation of several commercial crypto exchanges) |
 | [fixed](../fixed) | fixed decimal math library in Go |
 | [cpp_fixed](../fixed) | C++ fixed decimal math library |
 | [cpp_orderbook](../fixed) | C++ order book for financial exchanges and simulators |
