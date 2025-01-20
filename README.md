@@ -24,4 +24,15 @@ _Although these are generic, most have broad applicability in FinTech._
 | [leveldb](https://github.com/robaho/cpp_leveldb) | high-performance key/value data store in C++, Go and Java. |
 | [jnatsd](https://github.com/robaho/jnatsd) | Java port of the [NatsIO](https://github.com/nats-io) messaging system |
 | [httpserver](https://github.com/robaho/httpserver) | ulta efficient web server in Java |
+| [closablequeue](https://github.com/robaho/closablequeue) | lock-free concurrent queue designed for Java virtual threads |
+| [lrmp](https://github.com/robaho/lrmp) | multicast messaging in Go and Java |
+
+## Misc
+
+| | |
+| ----- | ----- |
+| [seashore](https://github.com/robaho/cpp_leveldb) | leading open-source image editing application. > 250k users. In Obj-C. |
+| [bmw_radio](https://github.com/robaho/cpp_leveldb) | hack a modern entertainment system into an old BMW - in C |
+| [goanalyzer](https://github.com/robaho/cpp_leveldb) | improved Go performance diagnostics for highly concurrent systems |
+| [SmartShareToCalendar](https://github.com/robaho/SmartShareToCalendar) | Android app to create calendar events from other systems |
 
