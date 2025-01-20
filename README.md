@@ -1,4 +1,4 @@
-## 👋 Builder. Mentor. Not a bot.
+## ![GitHub User's stars](https://img.shields.io/github/stars/robaho) Builder. Mentor. Not a bot.
 
 🔭 All work below is 100% original and not affilated with any employer past or present. 
 
