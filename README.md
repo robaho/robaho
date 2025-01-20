@@ -1,4 +1,6 @@
-## ![GitHub User's stars](https://img.shields.io/github/stars/robaho) Builder. Mentor. Not a bot.
+## Builder. Mentor. Not a bot.
+
+![GitHub User's stars](https://img.shields.io/github/stars/robaho)
 
 🔭 All work below is 100% original and not affilated with any employer past or present. 
 
@@ -35,4 +37,6 @@ _Although these are generic, most have broad applicability in FinTech._
 | [bmw_radio](https://github.com/robaho/cpp_leveldb) | hack a modern entertainment system into an old BMW - in C |
 | [goanalyzer](https://github.com/robaho/cpp_leveldb) | improved Go performance diagnostics for highly concurrent systems |
 | [SmartShareToCalendar](https://github.com/robaho/SmartShareToCalendar) | Android app to create calendar events from other systems |
+
+_For those that wonder, robaho is read as `rob ahoy` which is a holder over from my college days when a close friend and I would great each other across the quad. He was `marcaho`._ 
 
