@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Builder. Mentor. Not a bot.
 
 🔭 All work below is 100% original and not affilated with any employer past or present. 
 
