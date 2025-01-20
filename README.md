@@ -2,7 +2,9 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/robaho)
 
-🔭 All work below is 100% original and not affilated with any employer past or present. 
+🔭 All work below is 100% original and not affilated with any employer past or present.
+
+_<sup>***</sup>For those that wonder, robaho is read as `rob ahoy` which is a legacy from my college days when a close friend and I would great each other yelling across the quad. He was `marcaho`. The avitar is Bogey - the greatest dog that ever lived._ 
 
 ## FinTech work
 
@@ -38,5 +40,5 @@ _Although these are generic, most have broad applicability in FinTech._
 | [goanalyzer](https://github.com/robaho/cpp_leveldb) | improved Go performance diagnostics for highly concurrent systems |
 | [SmartShareToCalendar](https://github.com/robaho/SmartShareToCalendar) | Android app to create calendar events from other systems |
 
-_For those that wonder, robaho is read as `rob ahoy` which is a legacy from my college days when a close friend and I would great each other yelling across the quad. He was `marcaho`._ 
+
 
