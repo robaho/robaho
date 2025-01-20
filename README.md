@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 All work is personal and not affilated with any employer past or present. 
+🔭 All work below is 100% original and not affilated with any employer past or present. 
 
 ## FinTech work
 
