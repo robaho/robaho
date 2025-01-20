@@ -4,7 +4,7 @@
 
 ## FinTech work
 
-_The projects are created with a "performance first" design. They can easily form the base of production grade applications._
+_The projects are created with a "performance first" design. They can easily form the base of production grade applications. Think "design blueprint" with a minimalist implementation._
 
 | | |
 | ----- | ----- |
