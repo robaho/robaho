@@ -23,4 +23,5 @@ _Although these are generic, most have broad applicability in FinTech._
 | ----- | ----- |
 | [leveldb](https://github.com/robaho/cpp_leveldb) | ulta-high-performance key/value data store in C++, Go and Java. |
 | [jnatsd](https://github.com/robaho/jnatsd) | Java port of the [NatsIO](https://github.com/nats-io) messaging system |
+| [httpserver](https://github.com/robaho/httpserver) | ulta efficient web server in Java |
 
