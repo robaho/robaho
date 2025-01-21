@@ -36,8 +36,8 @@ _Although these are generic, most have broad applicability in FinTech._
 | | |
 | ----- | ----- |
 | [seashore](https://github.com/robaho/cpp_leveldb) | leading open-source image editing application. > 250k users. In Obj-C. <sup>1</sup> |
-| [bmw_radio](https://github.com/robaho/cpp_leveldb) | hack a modern entertainment system into an old BMW - in C |
-| [goanalyzer](https://github.com/robaho/cpp_leveldb) | improved Go performance diagnostics for highly concurrent systems |
+| [bmw_radio](https://github.com/robaho/bmw_radio) | hack a modern entertainment system into an old BMW - in C |
+| [goanalyzer](https://github.com/robaho/goanalyzer) | improved Go performance diagnostics for highly concurrent systems |
 | [SmartShareToCalendar](https://github.com/robaho/SmartShareToCalendar) | Android app to create calendar events from other systems |
 
 <sup>1</sup> I am not the original author, but > 95% of all of the code has been authored by me at this point.
