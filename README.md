@@ -18,7 +18,7 @@ _The projects are created with a "performance first" design. They can easily for
 | [cpp_orderbook](https://github.com/robaho/cpp_orderbook) | C++ order book for financial exchanges and simulators |
 | [cpp_fix_codec](https://github.com/robaho/cpp_fix_codec) | FIX protocol encoder/decoder in C++ |
 | [cpp_fix_engine](https://github.com/robaho/cpp_fix_engine) | FIX protocol engine in C++ |
-| [cpp-trader](https://github.com/robaho/cpp-trader)| Financial exchange in C++|
+| [cpp-trader](https://github.com/robaho/cpp-trader)| a financial exchange in C++|
 
 ## Infrastructure work
 
