@@ -32,7 +32,7 @@ _Although these are generic, most have broad applicability in FinTech._
 | [closablequeue](https://github.com/robaho/closablequeue) | lock-free concurrent queue designed for Java virtual threads |
 | [lrmp](https://github.com/robaho/lrmp) | multicast messaging in Go and Java |
 
-<sup>1</sup> Most of the code comes directly from the JDK, but many critical portions - like http2 support - are original.
+<sup>1</sup> Much of the code comes directly from the JDK, but many critical portions - like http2 support - are original.
 
 ## Misc
 
