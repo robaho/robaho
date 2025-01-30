@@ -28,9 +28,11 @@ _Although these are generic, most have broad applicability in FinTech._
 | ----- | ----- |
 | [leveldb](https://github.com/robaho/cpp_leveldb) | performance leading key/value data store in C++, Go and Java. |
 | [jnatsd](https://github.com/robaho/jnatsd) | Java port of the [NatsIO](https://github.com/nats-io) messaging system |
-| [httpserver](https://github.com/robaho/httpserver) | ulta efficient web server in Java |
+| [httpserver](https://github.com/robaho/httpserver) | ulta efficient web server in Java<sup>1</sup> |
 | [closablequeue](https://github.com/robaho/closablequeue) | lock-free concurrent queue designed for Java virtual threads |
 | [lrmp](https://github.com/robaho/lrmp) | multicast messaging in Go and Java |
+
+<sup>1</sup> Most of the code comes directly from the JDK, but many critical portions - like http2 support - are original.
 
 ## Misc
 
