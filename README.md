@@ -8,7 +8,7 @@ _<sup>***</sup>For those that wonder, robaho is read as `rob ahoy` which is a le
 
 ## FinTech work
 
-_The projects are created with a "performance first" design. They can easily form the base of production grade applications. Think "design blueprint" with a minimalist implementation, that is, it is not feature complete but the code should be easily readable and it should be clear how to adapt to your specific problem domain. Their first purpose is teaching._
+_The projects are created with a "performance first" design. Although they're not "feature complete", they can easily form the base of production grade applications - and several have. Their primary purpose is to be easily digestible educational "blueprints"._
 
 | | |
 | ----- | ----- |
