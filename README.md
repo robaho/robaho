@@ -43,7 +43,7 @@ _Although these are generic, most have broad applicability in FinTech._
 | [goanalyzer](https://github.com/robaho/goanalyzer) | improved Go performance diagnostics for highly concurrent systems |
 | [SmartShareToCalendar](https://github.com/robaho/SmartShareToCalendar) | Android app to create calendar events from other systems |
 
-<sup>1</sup> I am not the original author, but > 95% of all of the code has been authored by me at this point.
+<sup>1</sup> I am not the original author, but I've been the sole maintainer since 2017, and > 95% of all of the code has been authored by me at this point.
 
 ## Other work from forks with significant enhancements
 | | |
