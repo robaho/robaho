@@ -2,6 +2,8 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/robaho)
 
+**My non-compete expires in early April, so if you have an interesting role where you think I might be a fit, feel free to reach out at eolcoder@gmail.com. No recruiters please.**
+
 All work below is 100% original and not affilated with any employer past or present.
 
 _<sup>***</sup>For those that are curious, robaho is read as `rob ahoy` which is a legacy from my college days when a close friend and I would great each other yelling across the quad. He was `marcaho`. The avitar is Bogey - the greatest dog that ever lived._ 
