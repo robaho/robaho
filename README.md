@@ -2,7 +2,7 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/robaho)
 
-**My non-compete expires in early April, so if you have an interesting role where you think I might be a fit, feel free to reach out at eolcoder@gmail.com. No recruiters please.**
+**I am currently available for project based work - performance tuning, esoteric bug resolution, system design, etc. If you have an interesting role where you think my skills would be an asset, feel free to reach out at eolcoder@gmail.com. No recruiters please.**
 
 All work below is 100% original and not affilated with any employer past or present.
 
